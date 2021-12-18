@@ -1,4 +1,4 @@
-# 507finalproject
+# project code
 This is a repo for SI507 final project
 Kaggle API:https://github.com/Kaggle/kaggle-api
 Step1-get the kaggle token from the account
@@ -11,7 +11,7 @@ export KAGGLE_USERNAME=datadinosaur
 export KAGGLE_KEY=xxxxxxxxxxxxxx
 Python Packages:pandas,ZipFile,KaggleApi
 This project is designed to recommend movies, TV series and TV shows for users. The project will ask users some questions and then recommend the optimal 5 movies, TV series and TV shows.
-#data srtucture
+# data srtucture
 I built a tree with two subtrees, imdb and golden globe award.”imdb” represents the
 imdb_top_1000.csv and “golden globe award” represents the golden_globe_awards.csv. In
 addition, under the “imdb” there are the 3 nodes “genre”, “runtime”, release_year”, and in the
