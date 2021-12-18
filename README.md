@@ -9,5 +9,5 @@ Place the kaggle file in ~/.kaggle/kaggle.json
 chmod 600 ~/.kaggle/kaggle.json
 export KAGGLE_USERNAME=datadinosaur
 export KAGGLE_KEY=xxxxxxxxxxxxxx
-Python Packages:pandas,ZipFile,Kaggleapi
+Python Packages:pandas,ZipFile,KaggleApi
 This project is designed to recommend movies, TV series and TV shows for users. The project will ask users some questions and then recommend the optimal 5 movies, TV series and TV shows.
